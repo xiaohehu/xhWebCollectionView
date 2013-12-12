@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionName</key>
+		<string>2013</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>pdf</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-documents.png</string>
+				<key>albumcaption</key>
+				<string>Floor Plan</string>
+				<key>pdf</key>
+				<string>Floor_Plan</string>
+				<key>description</key>
+				<string>$100 million makeover for Victory Park in Dallas clears first hurdle</string>
+				<key>date</key>
+				<string>October 8, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Developer pitches $100M redo of Victory Park</string>
+				<key>date</key>
+				<string>October 7, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Panel Oks $100 million makeover for Dallas Victory Park</string>
+				<key>date</key>
+				<string>October 7,2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Dallas City Council Propose Victory Park Business Expansion</string>
+				<key>date</key>
+				<string>October 7, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Grocery store, theater planned for Victory Park</string>
+				<key>date</key>
+				<string>October 7, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>The Planned Resurrection of Victory park will Begin in May</string>
+				<key>date</key>
+				<string>October 4, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>High-rise apartment tower planned for Dallas&apos; Victory Park</string>
+				<key>date</key>
+				<string>August 2, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Victory park apartment project just two weeks away from start</string>
+				<key>date</key>
+				<string>September 26, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Terry Montesi: Can Victory Be Fixed?</string>
+				<key>date</key>
+				<string>September 18, 2013</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Exclusive: Developer ready to give Dallas&apos; Victory Park project a reboot</string>
+				<key>date</key>
+				<string>May 2, 2013</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>2012</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>HFF Moving It&apos;s Dallas Office to Victory Park</string>
+				<key>date</key>
+				<string>December 20, 2012</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+				<key>description</key>
+				<string>Partners Break Ground on Victory Park Apartments</string>
+				<key>date</key>
+				<string>August 16, 2012</string>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>pdf</string>
+				<key>albumthumb</key>
+				<string>neoscape_logo.png</string>
+				<key>albumframe</key>
+				<string>gallery-documents.png</string>
+				<key>albumcaption</key>
+				<string>Floor Plan</string>
+				<key>pdf</key>
+				<string>Floor_Plan</string>
+				<key>description</key>
+				<string>Trademark Property Co. to Hel, Victory Retail Repositioning</string>
+				<key>date</key>
+				<string>May 21, 2012</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

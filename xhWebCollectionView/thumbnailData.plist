@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionName</key>
+		<string>Jahn Architects, LLC</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>grfx_gallery_jahn_thumb.jpg</string>
+				<key>albumcaption</key>
+				<string>Early Design Concepts</string>
+				<key>images</key>
+				<array>
+					<string>grfx_Intro_01.jpg</string>
+					<string>grfx_Intro_02.jpg</string>
+					<string>grfx_Intro_03.jpg</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Image 01</string>
+					<string>Image 02</string>
+					<string>Image 03</string>
+				</array>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>grfx_gallery_jahnproj_thumb.jpg</string>
+				<key>albumcaption</key>
+				<string>Noteworthy Projects</string>
+				<key>images</key>
+				<array>
+					<string>gallery_jahnProj_mj-1999K_006_cropped.jpg</string>
+					<string>gallery_jahnProj_mj-1999K_018.jpg</string>
+					<string>gallery_jahnProj_mj-1999K_020.jpg</string>
+					<string>gallery_jahnProj_LTP_10.jpg</string>
+					<string>gallery_jahnProj_LTP_18.jpg</string>
+					<string>gallery_jahnProj_LTP_30.jpg</string>
+					<string>gallery_jahnProj_sony-04.jpg</string>
+					<string>gallery_jahnProj_sony1.jpg</string>
+					<string>gallery_jahnProj_sony3.bmp</string>
+					<string>gallery_jahnProj_layout-skyline_10.jpg</string>
+					<string>gallery_jahnProj_layout-skyline_08.jpg</string>
+					<string>gallery_jahnProj_layout-skyline_07.jpg</string>
+					<string>gallery_jahnProj_posttower_17.jpg</string>
+					<string>gallery_jahnProj_posttower_24.jpg</string>
+					<string>gallery_jahnProj_posttower_26.jpg</string>
+					<string>gallery_jahnProj_HTp_200_Night_ht057b-lf_B.jpg</string>
+					<string>gallery_jahnProj_HTp_205_Night_ht165_B.jpg</string>
+					<string>gallery_jahnProj_HTp_317_detail_ht073b_1.jpg</string>
+					<string>gallery_jahnProj_sign_07.jpg</string>
+					<string>gallery_jahnProj_sign_09.jpg</string>
+					<string>gallery_jahnProj_sign_24.jpg</string>
+					<string>gallery_jahnProj_kranzlereck_5.jpg</string>
+					<string>gallery_jahnProj_kranzlereck-2.jpg</string>
+					<string>gallery_jahnProj_kranzlereck-3.jpg</string>
+					<string>gallery_jahnProj_JPT-Taisei_17.jpg</string>
+					<string>gallery_jahnProj_JPT-Taisei_27.jpg</string>
+					<string>gallery_jahnProj_JPT-Taisei_28.jpg</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Image 01</string>
+					<string>Image 02</string>
+					<string>Image 03</string>
+					<string>Image 04</string>
+					<string>Image 05</string>
+					<string>Image 06</string>
+					<string>Image 07</string>
+					<string>Image 08</string>
+					<string>Image 09</string>
+					<string>Image 10</string>
+					<string>Image 11</string>
+					<string>Image 12</string>
+					<string>Image 13</string>
+					<string>Image 14</string>
+					<string>Image 15</string>
+					<string>Image 16</string>
+					<string>Image 17</string>
+					<string>Image 18</string>
+					<string>Image 19</string>
+					<string>Image 20</string>
+					<string>Image 22</string>
+					<string>Image 23</string>
+					<string>Image 24</string>
+					<string>Image 25</string>
+					<string>Image 26</string>
+					<string>Image 27</string>
+					<string>Image 28</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>3D Illustrations</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>grfx_gallery_3d_thumb.jpg</string>
+				<key>albumcaption</key>
+				<string>3D Illustrations</string>
+				<key>images</key>
+				<array>
+					<string>gallery_Quadrangle_1FreedomPlaza_Exterior_Day.jpg</string>
+					<string>gallery_Quadrangle_1FreedomPlaza_Exterior_Night.jpg</string>
+					<string>gallery_Quadrangle_1FreedomPlaza_Lobby.jpg</string>
+					<string>gallery_Quadrangle_1FreedomPlaza_ElevatorLobby.jpg</string>
+					<string>gallery_Quadrangle_1FreedomPlaza_Office.jpg</string>
+					<string>gallery_Quadrangle_1FreedomPlaza_Terrace.jpg</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Image 01</string>
+					<string>Image 02</string>
+					<string>Image 03</string>
+					<string>Image 04</string>
+					<string>Image 05</string>
+					<string>Image 06</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Photos</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>grfx_gallery_views_thumb.jpg</string>
+				<key>albumcaption</key>
+				<string>Rooftop Views</string>
+				<key>images</key>
+				<array>
+					<string>_mg_3464-_mg_3466.jpg</string>
+					<string>_mg_3446-_mg_3448.jpg</string>
+					<string>_mg_3440-_mg_3442.jpg</string>
+					<string>_mg_3438-_mg_3439.jpg</string>
+					<string>_mg_3421-_mg_3423.jpg</string>
+					<string>_mg_3358-_mg_3360.jpg</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Image 01</string>
+					<string>Image 02</string>
+					<string>Image 03</string>
+					<string>Image 04</string>
+					<string>Image 05</string>
+					<string>Image 06</string>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Building Info</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>image</string>
+				<key>albumthumb</key>
+				<string>grfx_gallery_amen_thumb.jpg</string>
+				<key>albumcaption</key>
+				<string>Rooftop Views</string>
+				<key>images</key>
+				<array>
+					<string>gallery_amenities_01.jpg</string>
+					<string>gallery_amenities_02.jpg</string>
+					<string>gallery_amenities_03.jpg</string>
+				</array>
+				<key>captions</key>
+				<array>
+					<string>Image 01</string>
+					<string>Image 02</string>
+					<string>Image 03</string>
+				</array>
+			</dict>
+			<dict>
+				<key>albumtype</key>
+				<string>url</string>
+				<key>albumthumb</key>
+				<string>thumb_online.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Live Video</string>
+				<key>url</key>
+				<string>http://www.neoscape.com</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Films</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>film</string>
+				<key>albumthumb</key>
+				<string>thumb_film.png</string>
+				<key>albumframe</key>
+				<string>gallery-video.png</string>
+				<key>albumcaption</key>
+				<string>Film</string>
+				<key>film</key>
+				<string>Groundbreaking.mp4</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionName</key>
+		<string>Documents</string>
+		<key>sectioninfo</key>
+		<array>
+			<dict>
+				<key>albumtype</key>
+				<string>pdf</string>
+				<key>albumthumb</key>
+				<string></string>
+				<key>albumframe</key>
+				<string>gallery-documents.png</string>
+				<key>albumcaption</key>
+				<string>Floor Plan</string>
+				<key>pdf</key>
+				<string>Floor_Plan</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
